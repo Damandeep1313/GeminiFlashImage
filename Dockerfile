@@ -15,4 +15,4 @@ COPY . .
 EXPOSE 8080
 
 # Start server
-CMD ["node", "server.js"]
+CMD ["node", "server1.js"]
